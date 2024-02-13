@@ -7,4 +7,5 @@ def print_reverse_sequence():
         print_reverse_sequence()
     print(num)
 
-print_reverse_sequence()
+if __name__ == "__main__":
+    print_reverse_sequence()
